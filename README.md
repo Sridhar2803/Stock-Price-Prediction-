@@ -28,7 +28,7 @@ Data Visualization: Provides graphical representations of trends and predictions
 
 Automated Data Collection: Scrapes financial news and stock prices from online sources.
 
-* **Technologies Used**
+# **Technologies Used**
 
 Python
 
