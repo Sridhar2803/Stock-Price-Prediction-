@@ -16,7 +16,7 @@ Risk assessment and automatic trading system Research highlights the increasing 
 future improvements, such as integrating sector-specific sentiment models and crossmarket analysis.
 
 
-Features
+**Features**
 
 Sentiment Analysis: Uses Natural Language Processing (NLP) techniques to classify news and social media sentiments.
 
@@ -28,7 +28,7 @@ Data Visualization: Provides graphical representations of trends and predictions
 
 Automated Data Collection: Scrapes financial news and stock prices from online sources.
 
-Technologies Used
+* **Technologies Used**
 
 Python
 
